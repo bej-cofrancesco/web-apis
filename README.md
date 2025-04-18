@@ -20,7 +20,7 @@ Below is a table of all the Web APIs I'm learning, based on [MDN Web API documen
 
 | API                                         | Description                               | Status         |
 | ------------------------------------------- | ----------------------------------------- | -------------- |
-| Attribution Reporting API                   | For measuring ad conversions              | ⬜ Not Started |
+| Attribution Reporting API                   | For measuring ad conversions              | 🔄 Not Started |
 | Audio Output Devices API                    | Control audio output devices              | ⬜ Not Started |
 | Background Fetch API                        | Download/upload in the background         | ⬜ Not Started |
 | Background Synchronization API              | Defer actions until network is available  | ⬜ Not Started |
