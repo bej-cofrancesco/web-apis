@@ -1,0 +1,12 @@
+{
+  "name": "web-apis-learning",
+  "version": "1.0.0",
+  "description": "A personal learning project for Web APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
